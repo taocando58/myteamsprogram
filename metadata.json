@@ -1,0 +1,5 @@
+{
+  "name": "AI Mind Map",
+  "description": "An application to help users create mind maps with AI-powered suggestions. Users can start with a central topic, get AI ideas for new branches, add their own nodes, and export the final mind map as an image or JSON data.",
+  "requestFramePermissions": []
+}
